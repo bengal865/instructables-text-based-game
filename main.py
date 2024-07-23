@@ -18,7 +18,7 @@ def game():
     if start == True:
         print('Greetings, traveller! I see you are new to this part of the realm.')
         print('Welcome to the Kingdom of Pulaskor.')
-        print('Here you will ')
+
 
 
 
